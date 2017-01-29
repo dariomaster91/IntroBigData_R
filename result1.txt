@@ -1,0 +1,12 @@
+"2015-01",formaggio 238,insalata 237,dolce 230,latte 220,uova 205
+"2015-02",uova 190,insalata 181,dolce 179,vino 176,pane 168
+"2015-03",pane 212,pesce 208,uova 208,dolce 200,vino 200
+"2015-04",pane 210,vino 208,dolce 205,insalata 204,pesce 203
+"2015-05",vino 235,formaggio 228,uova 223,pesce 221,insalata 217
+"2015-06",formaggio 229,pesce 223,uova 219,vino 214,pane 204
+"2015-07",vino 218,dolce 211,pane 205,pesce 198,latte 196
+"2015-08",latte 234,pane 228,formaggio 224,insalata 223,dolce 211
+"2015-09",pane 219,pesce 206,vino 203,dolce 196,uova 189
+"2015-10",uova 235,latte 229,dolce 224,pane 218,pesce 217
+"2015-11",uova 204,formaggio 202,dolce 200,pane 194,insalata 189
+"2015-12",latte 220,pane 219,formaggio 210,vino 209,dolce 201
