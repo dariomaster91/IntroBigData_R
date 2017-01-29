@@ -1,5 +1,5 @@
 # Input file initialization
-#input <- "/home/hduser/Desktop/R/data/esempio.txt"
+# input <- "/home/hduser/Desktop/R/data/esempio.txt"
 input <- file.choose(new = FALSE)
 
 # Get max columns number and create the table
