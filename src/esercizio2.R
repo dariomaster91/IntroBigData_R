@@ -1,6 +1,9 @@
 # Input file initialization
-input <- "/home/hduser/Desktop/R/data/esempio.txt"
-prices <- "/home/hduser/Desktop/R/data/prices.csv"
+#input <- "/home/hduser/Desktop/R/data/esempio.txt"
+#prices <- "/home/hduser/Desktop/R/data/prices.csv"
+
+input <- file.choose(new = FALSE)
+prices <- file.choose(new = FALSE)
 
 # Get max columns number and create the table
 no_col=max(count.fields(input, sep = ","))
