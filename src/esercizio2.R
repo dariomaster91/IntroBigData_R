@@ -12,7 +12,7 @@ data <- read.table(input, na.strings=c("", "NA"), sep = ",", fill = TRUE, col.na
 # Extract year-month values
 data$X1 <- substr(data$X1, 1, 7)
 
-# Split rows in order to obtain a dataset with a date for each product purchesed
+# Split rows to obtain a dataset with a date for each product purchesed
 library(reshape2)
 melteddata <- melt(data, id = "X1")
 
